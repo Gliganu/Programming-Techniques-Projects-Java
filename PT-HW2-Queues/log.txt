@@ -1,0 +1,273 @@
+2015-03-25 09:21:01.967 - Begin simulation
+2015-03-25 09:21:02.500 - Created customer ( -1443149469 ) with service time 2251
+2015-03-25 09:21:02.600 - Added customer  ( -1443149469 )  to queue 0
+2015-03-25 09:21:03.100 - Created customer ( -1443131840 ) with service time 5744
+2015-03-25 09:21:03.100 - Added customer  ( -1443131840 )  to queue 1
+2015-03-25 09:21:03.600 - Created customer ( -1443119737 ) with service time 1603
+2015-03-25 09:21:03.600 - Added customer  ( -1443119737 )  to queue 2
+2015-03-25 09:21:04.100 - Created customer ( -1443103413 ) with service time 2675
+2015-03-25 09:21:04.100 - Added customer  ( -1443103413 )  to queue 3
+2015-03-25 09:21:04.600 - Created customer ( -1443086115 ) with service time 4721
+2015-03-25 09:21:04.600 - Added customer  ( -1443086115 )  to queue 4
+2015-03-25 09:21:04.752 - Removed customer  ( -1443149469 ) from queue 0
+2015-03-25 09:21:05.100 - Created customer ( -1443071840 ) with service time 3744
+2015-03-25 09:21:05.100 - Added customer  ( -1443071840 )  to queue 0
+2015-03-25 09:21:05.203 - Removed customer  ( -1443119737 ) from queue 2
+2015-03-25 09:21:05.600 - Created customer ( -1443058174 ) with service time 1166
+2015-03-25 09:21:05.600 - Added customer  ( -1443058174 )  to queue 2
+2015-03-25 09:21:06.100 - Created customer ( -1443034084 ) with service time 6036
+2015-03-25 09:21:06.100 - Added customer  ( -1443034084 )  to queue 2
+2015-03-25 09:21:06.600 - Created customer ( -1443020131 ) with service time 4737
+2015-03-25 09:21:06.600 - Added customer  ( -1443020131 )  to queue 3
+2015-03-25 09:21:06.766 - Removed customer  ( -1443058174 ) from queue 2
+2015-03-25 09:21:06.775 - Removed customer  ( -1443103413 ) from queue 3
+2015-03-25 09:21:07.100 - Created customer ( -1443006592 ) with service time 3024
+2015-03-25 09:21:07.100 - Added customer  ( -1443006592 )  to queue 0
+2015-03-25 09:21:07.600 - Created customer ( -1442989953 ) with service time 3419
+2015-03-25 09:21:07.600 - Added customer  ( -1442989953 )  to queue 4
+2015-03-25 09:21:08.101 - Created customer ( -1442972165 ) with service time 5924
+2015-03-25 09:21:08.101 - Added customer  ( -1442972165 )  to queue 3
+2015-03-25 09:21:08.601 - Created customer ( -1442949591 ) with service time 1342
+2015-03-25 09:21:08.601 - Added customer  ( -1442949591 )  to queue 1
+2015-03-25 09:21:08.639 - Added new queue
+2015-03-25 09:21:08.775 - Added new queue
+2015-03-25 09:21:08.845 - Removed customer  ( -1443131840 ) from queue 1
+2015-03-25 09:21:08.851 - Removed customer  ( -1443071840 ) from queue 0
+2015-03-25 09:21:09.101 - Created customer ( -1442934282 ) with service time 1399
+2015-03-25 09:21:09.101 - Added customer  ( -1442934282 )  to queue 5
+2015-03-25 09:21:09.322 - Removed customer  ( -1443086115 ) from queue 4
+2015-03-25 09:21:09.601 - Created customer ( -1442915902 ) with service time 3535
+2015-03-25 09:21:09.601 - Added customer  ( -1442915902 )  to queue 6
+2015-03-25 09:21:10.101 - Created customer ( -1442901501 ) with service time 2684
+2015-03-25 09:21:10.101 - Added customer  ( -1442901501 )  to queue 1
+2015-03-25 09:21:10.187 - Removed customer  ( -1442949591 ) from queue 1
+2015-03-25 09:21:10.500 - Removed customer  ( -1442934282 ) from queue 5
+2015-03-25 09:21:10.602 - Created customer ( -1442885966 ) with service time 2936
+2015-03-25 09:21:10.602 - Added customer  ( -1442885966 )  to queue 5
+2015-03-25 09:21:11.102 - Created customer ( -1442868203 ) with service time 1479
+2015-03-25 09:21:11.102 - Added customer  ( -1442868203 )  to queue 1
+2015-03-25 09:21:11.514 - Removed customer  ( -1443020131 ) from queue 3
+2015-03-25 09:21:11.602 - Created customer ( -1442848304 ) with service time 5134
+2015-03-25 09:21:11.602 - Added customer  ( -1442848304 )  to queue 5
+2015-03-25 09:21:11.875 - Removed customer  ( -1443006592 ) from queue 0
+2015-03-25 09:21:12.102 - Created customer ( -1442834674 ) with service time 3512
+2015-03-25 09:21:12.102 - Added customer  ( -1442834674 )  to queue 0
+2015-03-25 09:21:12.602 - Created customer ( -1442817944 ) with service time 4990
+2015-03-25 09:21:12.602 - Added customer  ( -1442817944 )  to queue 4
+2015-03-25 09:21:12.742 - Removed customer  ( -1442989953 ) from queue 4
+2015-03-25 09:21:12.803 - Removed customer  ( -1443034084 ) from queue 2
+2015-03-25 09:21:12.871 - Removed customer  ( -1442901501 ) from queue 1
+2015-03-25 09:21:13.102 - Created customer ( -1442804923 ) with service time 2759
+2015-03-25 09:21:13.102 - Added customer  ( -1442804923 )  to queue 2
+2015-03-25 09:21:13.136 - Removed customer  ( -1442915902 ) from queue 6
+2015-03-25 09:21:13.539 - Removed customer  ( -1442885966 ) from queue 5
+2015-03-25 09:21:13.602 - Created customer ( -1442787397 ) with service time 4041
+2015-03-25 09:21:13.602 - Added customer  ( -1442787397 )  to queue 6
+2015-03-25 09:21:14.102 - Created customer ( -1442774847 ) with service time 5307
+2015-03-25 09:21:14.102 - Added customer  ( -1442774847 )  to queue 1
+2015-03-25 09:21:14.350 - Removed customer  ( -1442868203 ) from queue 1
+2015-03-25 09:21:14.602 - Created customer ( -1442760588 ) with service time 4314
+2015-03-25 09:21:14.604 - Added customer  ( -1442760588 )  to queue 2
+2015-03-25 09:21:15.104 - Created customer ( -1442747149 ) with service time 1695
+2015-03-25 09:21:15.105 - Added customer  ( -1442747149 )  to queue 0
+2015-03-25 09:21:15.605 - Created customer ( -1442727733 ) with service time 5828
+2015-03-25 09:21:15.605 - Added customer  ( -1442727733 )  to queue 6
+2015-03-25 09:21:15.616 - Removed customer  ( -1442834674 ) from queue 0
+2015-03-25 09:21:15.861 - Removed customer  ( -1442804923 ) from queue 2
+2015-03-25 09:21:16.105 - Created customer ( -1442712758 ) with service time 5551
+2015-03-25 09:21:16.107 - Added customer  ( -1442712758 )  to queue 0
+2015-03-25 09:21:16.607 - Created customer ( -1442697350 ) with service time 1677
+2015-03-25 09:21:16.607 - Added customer  ( -1442697350 )  to queue 2
+2015-03-25 09:21:17.107 - Created customer ( -1442680627 ) with service time 2156
+2015-03-25 09:21:17.107 - Added customer  ( -1442680627 )  to queue 4
+2015-03-25 09:21:17.311 - Removed customer  ( -1442747149 ) from queue 0
+2015-03-25 09:21:17.438 - Removed customer  ( -1442972165 ) from queue 3
+2015-03-25 09:21:17.607 - Created customer ( -1442662473 ) with service time 5058
+2015-03-25 09:21:17.607 - Added customer  ( -1442662473 )  to queue 3
+2015-03-25 09:21:17.643 - Removed customer  ( -1442787397 ) from queue 6
+2015-03-25 09:21:17.732 - Removed customer  ( -1442817944 ) from queue 4
+2015-03-25 09:21:18.107 - Created customer ( -1442646541 ) with service time 5738
+2015-03-25 09:21:18.107 - Added customer  ( -1442646541 )  to queue 4
+2015-03-25 09:21:18.607 - Created customer ( -1442630908 ) with service time 6119
+2015-03-25 09:21:18.607 - Added customer  ( -1442630908 )  to queue 3
+2015-03-25 09:21:18.674 - Removed customer  ( -1442848304 ) from queue 5
+2015-03-25 09:21:19.107 - Created customer ( -1442618972 ) with service time 1811
+2015-03-25 09:21:19.107 - Added customer  ( -1442618972 )  to queue 5
+2015-03-25 09:21:19.607 - Created customer ( -1442621259 ) with service time 4112
+2015-03-25 09:21:19.607 - Added customer  ( -1442621259 )  to queue 5
+2015-03-25 09:21:19.657 - Removed customer  ( -1442774847 ) from queue 1
+2015-03-25 09:21:19.890 - Removed customer  ( -1442680627 ) from queue 4
+2015-03-25 09:21:20.107 - Created customer ( -1442607739 ) with service time 2380
+2015-03-25 09:21:20.107 - Added customer  ( -1442607739 )  to queue 1
+2015-03-25 09:21:20.175 - Removed customer  ( -1442760588 ) from queue 2
+2015-03-25 09:21:20.607 - Created customer ( -1442591248 ) with service time 3619
+2015-03-25 09:21:20.607 - Added customer  ( -1442591248 )  to queue 2
+2015-03-25 09:21:20.918 - Removed customer  ( -1442618972 ) from queue 5
+2015-03-25 09:21:21.107 - Created customer ( -1442574189 ) with service time 4434
+2015-03-25 09:21:21.107 - Added customer  ( -1442574189 )  to queue 1
+2015-03-25 09:21:21.607 - Created customer ( -1442561055 ) with service time 2316
+2015-03-25 09:21:21.609 - Added customer  ( -1442561055 )  to queue 5
+2015-03-25 09:21:21.852 - Removed customer  ( -1442697350 ) from queue 2
+2015-03-25 09:21:22.110 - Created customer ( -1442541325 ) with service time 2981
+2015-03-25 09:21:22.110 - Added customer  ( -1442541325 )  to queue 2
+2015-03-25 09:21:22.487 - Removed customer  ( -1442607739 ) from queue 1
+2015-03-25 09:21:22.610 - Created customer ( -1442525313 ) with service time 2749
+2015-03-25 09:21:22.610 - Added customer  ( -1442525313 )  to queue 1
+2015-03-25 09:21:22.665 - Removed customer  ( -1442662473 ) from queue 3
+2015-03-25 09:21:22.862 - Removed customer  ( -1442712758 ) from queue 0
+2015-03-25 09:21:23.110 - Created customer ( -1442508696 ) with service time 4114
+2015-03-25 09:21:23.110 - Added customer  ( -1442508696 )  to queue 0
+2015-03-25 09:21:23.471 - Removed customer  ( -1442727733 ) from queue 6
+2015-03-25 09:21:23.610 - Created customer ( -1442493894 ) with service time 3664
+2015-03-25 09:21:23.610 - Added customer  ( -1442493894 )  to queue 6
+2015-03-25 09:21:24.110 - Created customer ( -1442479695 ) with service time 2611
+2015-03-25 09:21:24.110 - Added customer  ( -1442479695 )  to queue 6
+2015-03-25 09:21:24.610 - Created customer ( -1442461117 ) with service time 4945
+2015-03-25 09:21:24.610 - Added customer  ( -1442461117 )  to queue 0
+2015-03-25 09:21:25.031 - Removed customer  ( -1442621259 ) from queue 5
+2015-03-25 09:21:25.110 - Created customer ( -1442450849 ) with service time 3929
+2015-03-25 09:21:25.110 - Added customer  ( -1442450849 )  to queue 5
+2015-03-25 09:21:25.472 - Removed customer  ( -1442591248 ) from queue 2
+2015-03-25 09:21:25.611 - Created customer ( -1442437673 ) with service time 1822
+2015-03-25 09:21:25.611 - Added customer  ( -1442437673 )  to queue 2
+2015-03-25 09:21:25.629 - Removed customer  ( -1442646541 ) from queue 4
+2015-03-25 09:21:26.111 - Created customer ( -1442420042 ) with service time 4201
+2015-03-25 09:21:26.111 - Added customer  ( -1442420042 )  to queue 4
+2015-03-25 09:21:26.611 - Created customer ( -1442402958 ) with service time 5041
+2015-03-25 09:21:26.611 - Added customer  ( -1442402958 )  to queue 4
+2015-03-25 09:21:26.922 - Removed customer  ( -1442574189 ) from queue 1
+2015-03-25 09:21:27.111 - Created customer ( -1442387215 ) with service time 5532
+2015-03-25 09:21:27.113 - Added customer  ( -1442387215 )  to queue 1
+2015-03-25 09:21:27.225 - Removed customer  ( -1442508696 ) from queue 0
+2015-03-25 09:21:27.275 - Removed customer  ( -1442493894 ) from queue 6
+2015-03-25 09:21:27.348 - Removed customer  ( -1442561055 ) from queue 5
+2015-03-25 09:21:27.613 - Created customer ( -1442372200 ) with service time 1513
+2015-03-25 09:21:27.613 - Added customer  ( -1442372200 )  to queue 6
+2015-03-25 09:21:28.113 - Created customer ( -1442355121 ) with service time 2348
+2015-03-25 09:21:28.113 - Added customer  ( -1442355121 )  to queue 5
+2015-03-25 09:21:28.453 - Removed customer  ( -1442541325 ) from queue 2
+2015-03-25 09:21:28.614 - Created customer ( -1442339591 ) with service time 2595
+2015-03-25 09:21:28.615 - Added customer  ( -1442339591 )  to queue 2
+2015-03-25 09:21:28.785 - Removed customer  ( -1442630908 ) from queue 3
+2015-03-25 09:21:29.116 - Created customer ( -1442322495 ) with service time 4625
+2015-03-25 09:21:29.116 - Added customer  ( -1442322495 )  to queue 3
+2015-03-25 09:21:29.616 - Created customer ( -1442307583 ) with service time 3293
+2015-03-25 09:21:29.618 - Added customer  ( -1442307583 )  to queue 6
+2015-03-25 09:21:29.671 - Removed customer  ( -1442525313 ) from queue 1
+2015-03-25 09:21:29.886 - Removed customer  ( -1442479695 ) from queue 6
+2015-03-25 09:21:30.119 - Created customer ( -1442291572 ) with service time 3959
+2015-03-25 09:21:30.119 - Added customer  ( -1442291572 )  to queue 2
+2015-03-25 09:21:30.275 - Removed customer  ( -1442437673 ) from queue 2
+2015-03-25 09:21:30.312 - Removed customer  ( -1442420042 ) from queue 4
+2015-03-25 09:21:30.619 - Created customer ( -1442263106 ) with service time 5269
+2015-03-25 09:21:30.619 - Added customer  ( -1442263106 )  to queue 3
+2015-03-25 09:21:31.119 - Created customer ( -1442249825 ) with service time 3298
+2015-03-25 09:21:31.119 - Added customer  ( -1442249825 )  to queue 6
+2015-03-25 09:21:31.277 - Removed customer  ( -1442450849 ) from queue 5
+2015-03-25 09:21:31.399 - Removed customer  ( -1442372200 ) from queue 6
+2015-03-25 09:21:31.619 - Created customer ( -1442230306 ) with service time 6573
+2015-03-25 09:21:31.621 - Added customer  ( -1442230306 )  to queue 5
+2015-03-25 09:21:32.121 - Created customer ( -1442217207 ) with service time 4606
+2015-03-25 09:21:32.121 - Added customer  ( -1442217207 )  to queue 0
+2015-03-25 09:21:32.170 - Removed customer  ( -1442461117 ) from queue 0
+2015-03-25 09:21:32.621 - Created customer ( -1442203235 ) with service time 3326
+2015-03-25 09:21:32.621 - Added customer  ( -1442203235 )  to queue 0
+2015-03-25 09:21:32.870 - Removed customer  ( -1442339591 ) from queue 2
+2015-03-25 09:21:33.121 - Created customer ( -1442183919 ) with service time 6398
+2015-03-25 09:21:33.121 - Added customer  ( -1442183919 )  to queue 2
+2015-03-25 09:21:33.621 - Created customer ( -1442170082 ) with service time 1015
+2015-03-25 09:21:33.621 - Added customer  ( -1442170082 )  to queue 4
+2015-03-25 09:21:33.625 - Removed customer  ( -1442355121 ) from queue 5
+2015-03-25 09:21:33.747 - Removed customer  ( -1442322495 ) from queue 3
+2015-03-25 09:21:34.121 - Created customer ( -1442154614 ) with service time 1231
+2015-03-25 09:21:34.121 - Added customer  ( -1442154614 )  to queue 3
+2015-03-25 09:21:34.621 - Created customer ( -1442138335 ) with service time 2258
+2015-03-25 09:21:34.621 - Added customer  ( -1442138335 )  to queue 1
+2015-03-25 09:21:34.693 - Removed customer  ( -1442307583 ) from queue 6
+2015-03-25 09:21:35.121 - Created customer ( -1442118836 ) with service time 5513
+2015-03-25 09:21:35.121 - Added customer  ( -1442118836 )  to queue 6
+2015-03-25 09:21:35.203 - Removed customer  ( -1442387215 ) from queue 1
+2015-03-25 09:21:35.353 - Removed customer  ( -1442402958 ) from queue 4
+2015-03-25 09:21:35.621 - Created customer ( -1442103795 ) with service time 5302
+2015-03-25 09:21:35.621 - Added customer  ( -1442103795 )  to queue 4
+2015-03-25 09:21:36.121 - Created customer ( -1442094657 ) with service time 3156
+2015-03-25 09:21:36.121 - Added customer  ( -1442094657 )  to queue 1
+2015-03-25 09:21:36.368 - Removed customer  ( -1442170082 ) from queue 4
+2015-03-25 09:21:36.621 - Created customer ( -1442079040 ) with service time 3521
+2015-03-25 09:21:36.621 - Added customer  ( -1442079040 )  to queue 4
+2015-03-25 09:21:36.778 - Removed customer  ( -1442217207 ) from queue 0
+2015-03-25 09:21:36.833 - Removed customer  ( -1442291572 ) from queue 2
+2015-03-25 09:21:37.121 - Created customer ( -1442063577 ) with service time 2740
+2015-03-25 09:21:37.121 - Added customer  ( -1442063577 )  to queue 0
+2015-03-25 09:21:37.461 - Removed customer  ( -1442138335 ) from queue 1
+2015-03-25 09:21:37.621 - Created customer ( -1442045717 ) with service time 5348
+2015-03-25 09:21:37.621 - Added customer  ( -1442045717 )  to queue 1
+2015-03-25 09:21:37.991 - Removed customer  ( -1442249825 ) from queue 6
+2015-03-25 09:21:38.121 - Created customer ( -1442034064 ) with service time 1749
+2015-03-25 09:21:38.121 - Added customer  ( -1442034064 )  to queue 6
+2015-03-25 09:21:38.621 - Created customer ( -1442014053 ) with service time 2540
+2015-03-25 09:21:38.621 - Added customer  ( -1442014053 )  to queue 0
+2015-03-25 09:21:39.016 - Removed customer  ( -1442263106 ) from queue 3
+2015-03-25 09:21:39.121 - Created customer ( -1441997366 ) with service time 2983
+2015-03-25 09:21:39.121 - Added customer  ( -1441997366 )  to queue 3
+2015-03-25 09:21:39.621 - Created customer ( -1441979903 ) with service time 5194
+2015-03-25 09:21:39.621 - Added customer  ( -1441979903 )  to queue 3
+2015-03-25 09:21:40.104 - Removed customer  ( -1442203235 ) from queue 0
+2015-03-25 09:21:40.121 - Created customer ( -1441966074 ) with service time 3771
+2015-03-25 09:21:40.121 - Added customer  ( -1441966074 )  to queue 0
+2015-03-25 09:21:40.198 - Removed customer  ( -1442230306 ) from queue 5
+2015-03-25 09:21:40.247 - Removed customer  ( -1442154614 ) from queue 3
+2015-03-25 09:21:40.617 - Removed customer  ( -1442094657 ) from queue 1
+2015-03-25 09:21:40.621 - Created customer ( -1441951452 ) with service time 3141
+2015-03-25 09:21:40.621 - Added customer  ( -1441951452 )  to queue 5
+2015-03-25 09:21:41.121 - Created customer ( -1441937010 ) with service time 1339
+2015-03-25 09:21:41.122 - Added customer  ( -1441937010 )  to queue 5
+2015-03-25 09:21:41.622 - Created customer ( -1441937653 ) with service time 5253
+2015-03-25 09:21:41.623 - Added customer  ( -1441937653 )  to queue 5
+2015-03-25 09:21:41.672 - Removed customer  ( -1442103795 ) from queue 4
+2015-03-25 09:21:42.123 - Created customer ( -1441926072 ) with service time 1551
+2015-03-25 09:21:42.123 - Added customer  ( -1441926072 )  to queue 4
+2015-03-25 09:21:42.624 - Created customer ( -1441906377 ) with service time 5219
+2015-03-25 09:21:42.625 - Added customer  ( -1441906377 )  to queue 4
+2015-03-25 09:21:42.845 - Removed customer  ( -1442063577 ) from queue 0
+2015-03-25 09:21:43.126 - Created customer ( -1441893686 ) with service time 2596
+2015-03-25 09:21:43.126 - Added customer  ( -1441893686 )  to queue 1
+2015-03-25 09:21:43.231 - Removed customer  ( -1441997366 ) from queue 3
+2015-03-25 09:21:43.233 - Removed customer  ( -1442183919 ) from queue 2
+2015-03-25 09:21:43.507 - Removed customer  ( -1442118836 ) from queue 6
+2015-03-25 09:21:43.626 - Created customer ( -1441878160 ) with service time 2870
+2015-03-25 09:21:43.626 - Added customer  ( -1441878160 )  to queue 2
+2015-03-25 09:21:43.763 - Removed customer  ( -1441951452 ) from queue 5
+2015-03-25 09:21:44.126 - Created customer ( -1441858577 ) with service time 3233
+2015-03-25 09:21:44.126 - Added customer  ( -1441858577 )  to queue 6
+2015-03-25 09:21:44.626 - Created customer ( -1441839935 ) with service time 5631
+2015-03-25 09:21:44.626 - Added customer  ( -1441839935 )  to queue 2
+2015-03-25 09:21:45.102 - Removed customer  ( -1441937010 ) from queue 5
+2015-03-25 09:21:45.126 - Created customer ( -1441827583 ) with service time 2731
+2015-03-25 09:21:45.126 - Added customer  ( -1441827583 )  to queue 6
+2015-03-25 09:21:45.194 - Removed customer  ( -1442079040 ) from queue 4
+2015-03-25 09:21:45.256 - Removed customer  ( -1442034064 ) from queue 6
+2015-03-25 09:21:45.386 - Removed customer  ( -1442014053 ) from queue 0
+2015-03-25 09:21:45.626 - Created customer ( -1441813519 ) with service time 1543
+2015-03-25 09:21:45.626 - Added customer  ( -1441813519 )  to queue 0
+2015-03-25 09:21:45.966 - Removed customer  ( -1442045717 ) from queue 1
+2015-03-25 09:21:46.126 - Created customer ( -1441793341 ) with service time 6469
+2015-03-25 09:21:46.126 - Added customer  ( -1441793341 )  to queue 1
+2015-03-25 09:21:46.496 - Removed customer  ( -1441878160 ) from queue 2
+2015-03-25 09:21:46.626 - Created customer ( -1441780192 ) with service time 3374
+2015-03-25 09:21:46.626 - Added customer  ( -1441780192 )  to queue 3
+2015-03-25 09:21:46.745 - Removed customer  ( -1441926072 ) from queue 4
+2015-03-25 09:21:47.126 - Created customer ( -1441768480 ) with service time 3802
+2015-03-25 09:21:47.126 - Added customer  ( -1441768480 )  to queue 4
+2015-03-25 09:21:47.626 - Created customer ( -1441754321 ) with service time 2709
+2015-03-25 09:21:47.626 - Added customer  ( -1441754321 )  to queue 5
+2015-03-25 09:21:47.726 - End simulation
+2015-03-25 09:21:48.126 - Created customer ( -1441738171 ) with service time 3607
+2015-03-25 09:21:48.127 - Added customer  ( -1441738171 )  to queue 0
+2015-03-25 09:21:48.425 - Removed customer  ( -1441979903 ) from queue 3
+2015-03-25 09:21:48.489 - Removed customer  ( -1441858577 ) from queue 6
+2015-03-25 09:21:48.562 - Removed customer  ( -1441893686 ) from queue 1
+2015-03-25 09:21:49.157 - Removed customer  ( -1441966074 ) from queue 0
+2015-03-25 09:21:50.355 - Removed customer  ( -1441937653 ) from queue 5
+2015-03-25 09:21:51.964 - Removed customer  ( -1441906377 ) from queue 4
+2015-03-25 09:21:52.127 - Removed customer  ( -1441839935 ) from queue 2
